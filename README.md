@@ -2,7 +2,7 @@
 
 **Python developer specialized in Artificial Intelligence and Geographic Information Systems.**
 
-I build open-source tools for remote sensing, geospatial analysis, and machine learning applied to marine and coastal environments. I hold a BS in Computer Engineering (University of Granada) and am currently completing an MS in Artificial Intelligence (Instituto Europeo de Posgrado).
+I build open-source tools for remote sensing, geospatial analysis, and machine learning applied to marine and coastal environments. I hold a BS in Computer Engineering (University of Granada) and a MS in Artificial Intelligence (Instituto Europeo de Posgrado).
 
 ---
 
